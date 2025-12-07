@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Morestead
-- 👀 I’m interested in anything Tech related, Competitive Video Gaming, Thai Boxing & Surfing
-- 🌱 I’m currently learning Cyber-Security
-- 💞️ I’m looking to collaborate on Anything Cyber based!!
-- 📫 How to reach me morestead@duck.com
+### 👋 Hi, I’m @Morestead
 
-<!---
-Morestead/Morestead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Cybersecurity practitioner focused on continuous learning, hands-on research, and contributing to the security community.
+
+- 🔍 Interests: threat hunting, DFIR, offensive security, and blue team engineering  
+- 🛠️ Always experimenting with tools, detections, and lab environments  
+- 🤝 Open to collaboration on security research or open-source projects  
+- 📫 Reach me at: morestead@duck.com
